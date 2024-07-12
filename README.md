@@ -1,7 +1,7 @@
 ```java
 import java.util.Map;
 
-public class JAFarrow extends Developer implements Human {
+public class JAFarrow extends Developer {
     
     public JAFarrow(String name, Map<String, String> contact, Map<String, String[]> languages, String[] interests) {
         super(name, contact, languages, interests);
