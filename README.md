@@ -26,6 +26,7 @@ public class JAFarrow extends Developer implements Human {
             "protocols",
             "foss alternatives"
           };
+
         JAFarrow me = new JAFarrow(name, contact, languages, interests);
     }
 }
