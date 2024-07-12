@@ -15,8 +15,7 @@ public class JAFarrow extends Developer {
           );
 
         Map<String, String[]> languages = Map.of(
-            "advanced", new String[] {"java"},
-            "intermediate", new String[] {"python", "javascript"},
+            "intermediate", new String[] {"java", "python", "javascript"},
             "learning", new String[] {"c#"}
           );
 
