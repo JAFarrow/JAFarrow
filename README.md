@@ -26,7 +26,7 @@ public class JAFarrow extends Developer {
             "foss alternatives"
           };
 
-        JAFarrow me = new JAFarrow(name, contact, languages, interests);
+        Developer me = new JAFarrow(name, contact, languages, interests);
     }
 }
 ```
